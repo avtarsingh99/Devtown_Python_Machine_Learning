@@ -15,7 +15,8 @@ I got to have hands on experience on:
 <li>Machine Learning
 <li>Tensorflow
 <br>
-during these 7 days, and everything was explained from the very basics so that
+  
+During these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
 
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
